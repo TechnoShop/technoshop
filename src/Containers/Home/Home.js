@@ -11,8 +11,8 @@ class Home extends Component {
         return (
             <ContainerFluid>
                 <HeroImage>
-                    <h1>Kaan Demirkol</h1>
-                    <h2>Frontend Developer</h2>
+                    <h1>Techno Shop</h1>
+                    <h2>En yeni teknolojik ürünleri bulabileceğiniz en iyi sayfa</h2>
                 </HeroImage>
                 <Container>
                     <h1>Hello</h1>
